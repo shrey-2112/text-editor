@@ -1,0 +1,54 @@
+
+.btn{
+
+  align-content: center;
+  border: 1.5px solid rgb(156, 156, 156);
+  background: none;
+  cursor: pointer;
+  padding: 1vh 1.8vh;
+  margin: 0.7vh;
+  border-radius: 0.5vh;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.7vh ;
+  font-weight: 400;
+  color: #616161;
+}
+.btn-head{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4vh ;
+    font-weight:500;
+    margin-left: 0.6vh;
+    margin-bottom: 3vh;
+    color: #616161;
+}
+.btn-main{
+    margin-top: 2vh;
+    margin-left: 1.85vh;
+}
+.btn:hover{
+    border: 1.5px solid rgb(239, 239, 239);
+    color: rgb(239, 239, 239);
+}
+
+.summ-p{
+    font-family: 'Roboto Mono', monospace;
+  font-size: 1.7vh ;
+  color: #616161;
+  font-weight: 400;
+  margin-top: 3vh;
+}
+.summ-p > div{
+    margin: 0.85vh;
+}
+.summ-head{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4vh ;
+    font-weight:500;
+    color: #616161;
+}
+
+
+.summ-main{
+    margin-left: 2vh;
+    margin-top: 1.85vh;
+}
